@@ -1,0 +1,9 @@
+site:
+  name: "Шлях віри"
+  author: "Анонім"
+  description: "Особистий духовний блог"
+  language: "uk"
+
+theme:
+  typography: serif
+  palette: lavender
