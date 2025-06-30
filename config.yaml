@@ -2,7 +2,7 @@ site:
   name: "Шлях віри"
   author: "Анонім"
   description: "Особистий духовний блог"
-  language: "uk"
+  language: "ua"
 
 theme:
   typography: serif
